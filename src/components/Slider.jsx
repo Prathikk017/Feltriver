@@ -23,7 +23,7 @@ const Slider = () => {
 
   return (
     <div className="max-w-[1400px] md:h-[580px] h-[400px] w-full m-auto py-16 px-4 relative group">
-     <div className="w-full h-full rounded-2xl bg-center bg-cover duration-500"
+     <div className="w-full lg:h-full h-[380px]  rounded-2xl bg-center bg-cover duration-500 "
      style={{backgroundImage: `url(${data[currentIndex].url})`}}></div>
     {/* Left Arrow */}
     <div className="absolute top-[50%] -translate-x-0 translate-y-[-50%] left-5 text-2xl rounded-full p-2 group-hover:bg-gray-200/50 text-white cursor-pointer" onClick={prevSlide}>

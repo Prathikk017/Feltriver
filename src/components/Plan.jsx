@@ -11,8 +11,8 @@ const Plan = () => {
       </div>
       <div className="flex flex-col h-full justify-center">
         <h3 className="text-5xl md:text-6xl font-bold ">Plan Your Next Trip</h3>
-        <p className="text-2xl py-6">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Assumenda, omnis!</p>
-        <p className="pb-6">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quod in earum ea accusamus recusandae rem sunt perspiciatis architecto dignissimos delectus.</p>
+        <p className="text-3xl py-6">Explore. Dream. Discover.</p>
+        <p className="pb-6">Traveling is a journey of self-discovery. Start planning your next trip and uncover new horizons.</p>
         <div>
             <button className="border-black mr-4 hover:shadow-xl">Learn More</button>
             <button className="bg-black text-white border-black hover:shadow-xl">Book Your Trip</button>

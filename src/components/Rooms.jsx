@@ -4,13 +4,11 @@ const Rooms = () => {
       <div className='lg:top-20 relative lg:col-span-1 col-span-2'>
         <h3 className='text-2xl font-bold'>Fine Interior Rooms</h3>
         <p className='pt-4'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere sed
-          blanditiis suscipit nemo provident quasi fugiat consectetur
-          perspiciatis doloremque quos!
+        Masterpieces where every detail harmoniously weaves together to create a symphony of elegance and comfort. They breathe life into spaces, captivating hearts and souls
         </p>
       </div>
 
-      <div className='grid grid-cols-2 col-span-1 gap-2  lg:w-[80vh] lg:mr-20 md:h-0  lg:ml-28 ml-5 lg:pt-4'>
+      <div className='grid grid-cols-2 col-span-1 gap-2  lg:w-[80vh] lg:mr-20 md:h-0 md:mb-[25%] lg:ml-28 ml-5 lg:pt-4'>
         
       <img
           className=' row-span-1 object-cover w-full h-full'

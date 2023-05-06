@@ -1,3 +1,4 @@
+import Footer from "./components/Footer"
 import Main from "./components/Main"
 import Navbar from "./components/Navbar"
 import Offers from "./components/Offers"
@@ -18,6 +19,7 @@ function App() {
         <Plan/>
         <Rooms/>
         <Slider/>
+        <Footer/>
         </div>
     </>
   )
